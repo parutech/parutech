@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on any project where you might need a hard-working person 
 - 📫 How to reach me : contact@paru.tech
 
-All versioning follows _Semantic Versioning 2.0.0_, for which an extensive explanation can be found [here](https://semver.org/).
+All client-side software require an API authentication token to work properly. Such access can be purchased [here](https://paru.tech)
