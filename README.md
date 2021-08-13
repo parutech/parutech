@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on any project where you might need a hard-working person 
 - 📫 How to reach me : contact@paru.tech
 
-All client-side software require an API authentication token to work properly. Such access can be purchased [here](https://paru.tech)
+All client-side software require an API authentication token to work properly. Such an access can be purchased [here](https://paru.tech).
