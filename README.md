@@ -3,4 +3,4 @@
 _____
 
 Most software in the repositories need a valid API key to function properly. Such an access can be purchased on my website.
-For further information, you can contact me at contact@paru.tech
+For further information, you can reach me at contact@paru.tech
